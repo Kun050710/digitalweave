@@ -1,0 +1,80 @@
+k - para hablar por aqui
+que lo otro este limpito :()
+
+m - okey
+
+haber
+tu que estas dispuesto a hacer (paginas web, diseño web, editar videos...)??
+
+editar videos y diseño de páginas wweb, pero iree aprendiendo a desasrollar las wbes to, asi que de momento esoo.
+
+decidete por una
+
+editar cideos o páginas web?
+
+si
+yo empezaria por las paǵinas web (tienen mas demanda), pero lo que tu veas
+
+entonces los objetivos de la agencia son múltiples?
+
+supongo
+podemos poner varios servicios y cada uno ocuparnos de uno
+si los dos hacemos paginas web, se la queda uno/otro y si queremos hacerla los dos vamos 50/50
+te parece bien?
+
+haber al principio seré yo el que me encargue en su totalidad de los videos 
+y tu de las webs, te parece bien?
+
+sii 
+
+Caundo adquiera más experiencia ya se verá
+
+mira, esto he estado haciendo ahora mismo
+sencillito
+dame un segundo que le ponga los estilos (css)
+
+Cual quieres que sea el nombre de la agencia?
+
+ni idea
+que llame la atencion
+prueba a hacerlo con chatgpt ("hazme 10 nombres para una agencia de programacion web y edicion de video")
+
+Aquí están:
+CódigoVisual Pro
+PixelFusión Tech
+WebArte Studios
+VideoForge Solutions
+ByteCraft Agency
+CodeCanvas Creations
+EditMinds Co.
+DigitalWeave Studios
+WebMasters Collective
+VideoSculpt Innovations
+
+las que me gustan son:
+ByteCraft Agency
+CodeCanvas
+DigitalWeave
+
+mejor nos quedamos con DigitalWave, las otras estan muy enfocadas a la programacion 
+(si, y teniendo en cuenta de que podría cambiar nuestro enfoque en algún futuro)
+decidido, gana digitalweave (traducción literal = "Tejido Digital)
+
+Una curisosidad : sabes como empezó samsung?
+
+grocery store?? (no me sale en español)
+
+era una empresa pesquera de japón que fue inovando con los años y hoy es l
+que es
+
+ª
+
+Una pregunta: css funciona de forma nativa con  html?
+
+nope
+tienes que vincular el archivo
+<link rel="stylesheet" href="[RUTA]">
+pasa lo mismo con js
+
+a bueno
+entonces que  funciones de css necesitas para la web?
